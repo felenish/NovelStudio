@@ -42,3 +42,7 @@
 ## Documentation & Help
 - [ ] In-app help/manual
 - [ ] About/license dialog
+
+---
+
+*Tip: Track these tasks in your project management tool for assignment and progress!*
